@@ -1,2 +1,1 @@
-# fyreski.io
-My first try ever
+# Fyreski.github.io
