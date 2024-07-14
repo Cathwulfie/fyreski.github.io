@@ -1,0 +1,63 @@
+html, body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+header{
+    background-image: url('../img/cosmic.jpg');
+    padding: 40px;
+    text-align: center;
+}
+h1{ 
+    font-size: 90px;
+    color:white;
+    -webkit-text-stroke: 1px black;
+}
+header img{
+    border-radius: 700px;
+    width: 300px;
+    border: 15px solid #a47e1b;
+}
+h2{ -webkit-text-stroke: 1px black; /* width and color */
+
+    font-family: Arial, Helvetica, serif; color: pink;
+}
+.content{
+    background-color: #f3c4fb;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font: italic bold 12px/30px Georgia, serif;
+}
+img.big-image{
+    max-width: 100%;
+}
+p.captions{
+    font-size: 16px;
+    color: black;
+    font-style: italic;
+    -webkit-text-stroke: 1px black;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+a{
+    color: rgb(5, 0, 0);
+    text-decoration: none;
+}
+footer{
+    margin-top: 20px;
+    padding: 40px 20px;
+    background-color:#ffcbf2 ;
+}
+ul{
+    text-align: center;
+}
+footer ul li{
+    display: inline;
+    margin: 0 5px;
+}
+/*<header>
+<img src="img/profile.jpg">
+            <h1>Luxana from League of Legends</h1>
